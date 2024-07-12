@@ -1,0 +1,6 @@
+baseURL = "http://localhost:1313/"
+languageCode = 'en-us'
+title = 'iknite-Task'
+theme = 'PaperMod'
+rel-me = 'false'
+
