@@ -1,4 +1,4 @@
---
+---
 title: "Django project"
 description: "A Laundry wesite "
 dateString: Nov 2023 - jan 2024
@@ -7,7 +7,7 @@ tags: ["C++", "Python", "Raspberry Pi", "Arduino", "Robotics"]
 showToc: false
 weight: 208
 cover:
-    image: "images/django.png"
+    image: "images/jk.png"
 ---
 > Presented in jan 2024 in the faculty of engineering and technology (**software development tools 2024**)
 ## Description
