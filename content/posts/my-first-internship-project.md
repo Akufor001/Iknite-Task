@@ -7,6 +7,9 @@ draft: false
 
 During my first internship, I had the opportunity to work on an exciting project that helped me gain valuable experience in the field. Here's a brief overview of the project:
 
+![image info](/assets/jk.jpg)
+
+
 ## Project Overview
 
 The project was focused on developing a web-based application for a local small business. The main goal was to create a user-friendly platform that would allow the business to manage their inventory, track sales, and generate reports.
